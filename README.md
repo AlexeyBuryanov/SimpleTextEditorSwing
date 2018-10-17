@@ -3,9 +3,7 @@
 
 # Simple Text Editor based on Swing library [![license][license-image]][license-url]
 
-- Java 10.
-
-Functional:
+- Java 10;
 - Easy tab navigation;
 - Create new document;
 - Open/Edit/Read/Save/Write file;
